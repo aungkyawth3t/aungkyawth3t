@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aung+Kyaw+Thet;Full+Stack+Developer;Laravel+%7C+React+Enthusiast;Problem+Solver+%26+Design+Lover" alt="Typing SVG" />
 </div>
@@ -37,9 +35,6 @@
   </a>
   
   <br/>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=aungkyawth3t&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1)
-  
 </div>
 
 ## 🎯 Current Focus
@@ -67,8 +62,12 @@
 ## 🏆 GitHub Trophies
 
 <div align="start">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aungkyawth3t&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+   <a href="https://github.com/aungkyawth3t?tab=achievements&achievement=pull-shark">
+    <img height="180em" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"/>
+  </a>
+   <a href="https://github.com/aungkyawth3t?tab=achievements&achievement=yolo">
+    <img height="180em" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"/>
+  </a>
   
 </div>
 
@@ -85,3 +84,4 @@
 
 </div>
 
+<sub>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</sub>
