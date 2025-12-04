@@ -48,61 +48,52 @@
   
 | 🔭 **Working On** | 🌱 **Learning** | 📚 **Exploring** |
 |:-----------------|:----------------|:-----------------|
-| Laravel-based web applications | ReactJS & Modern Frontend | Advanced Database Design |
-| API Development | Next.js | Cloud Deployment |
-| Clean Architecture | TypeScript | DevOps Practices |
+| Laravel-based web applications | ReactJS | Advanced Database Design |
+| API Development | VueJS | Cloud Deployment |
+| Personal Projects | TypeScript | DevOps Practices |
 
 </div>
 
-## 📈 Progress & Activity
+## 📫 Connect With Me
 
 <div align="center">
   
-```mermaid
-timeline
-    title Learning Journey
-    section 2024
-      Frontend Mastery : HTML/CSS/JS<br>TailwindCSS
-      Backend Development : PHP/Laravel
-      Current Focus : ReactJS
-    section Goals
-      Full Stack Proficiency : MERN/LAMP Stack
-      Cloud & DevOps : Docker, AWS
-      </div>
-📫 Connect With Me
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/aungkyawth3t)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  
+</div>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aungkyawth3t&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+## 💡 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **[Project 1](https://github.com/aungkyawth3t)** | Laravel E-commerce Platform | Laravel, MySQL, Tailwind |
+| **[Project 2](https://github.com/aungkyawth3t)** | React Task Manager | React, Node.js, MongoDB |
+| **[Project 3](https://github.com/aungkyawth3t)** | API Development Kit | PHP, Laravel, JWT |
 
 </div>
-🏆 GitHub Trophies
-<div align="center">
-https://github-profile-trophy.vercel.app/?username=aungkyawth3t&theme=radical&no-frame=true&row=2&column=4
 
-</div>
-💡 Featured Projects
-<div align="center">
-Project	Description	Stack
-Project 1	Laravel E-commerce Platform	Laravel, MySQL, Tailwind
-Project 2	React Task Manager	React, Node.js, MongoDB
-Project 3	API Development Kit	PHP, Laravel, JWT
-</div>
-⚡ Fun Facts
-<div align="center">
-javascript
-const developer = {
-  name: "Aung Kyaw Thet",
-  role: "Full Stack Developer",
-  passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-  quote: "Turning coffee into code since...",
-  currentlyLearning: "ReactJS & Modern Frontend",
-  funFact: "I can debug CSS in my sleep 😴"
-};
-</div>
-<div align="center">
-https://komarev.com/ghpvc/?username=aungkyawth3t&color=6366f1&style=flat-square
+## ⚡ Fun Facts
 
-<sub>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</sub>
-
-</div> ```
+<div align="center">
+  
+  ```javascript
+  const developer = {
+    name: "Aung Kyaw Thet",
+    role: "Full Stack Developer",
+    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+    quote: "Turning coffee into code since...",
+    currentlyLearning: "ReactJS & Modern Frontend",
+    funFact: "I can debug CSS in my sleep 😴"
+  };
