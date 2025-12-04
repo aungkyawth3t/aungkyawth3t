@@ -1,12 +1,12 @@
 # Hi there 👋
 
-<div align="center">
+<div align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aung+Kyaw+Thet;Full+Stack+Developer;Laravel+%7C+React+Enthusiast;Problem+Solver+%26+Design+Lover" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### 💻 **Languages & Frameworks**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
   
   <a href="https://github.com/aungkyawth3t">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aungkyawth3t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
@@ -44,7 +44,7 @@
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="start">
   
 | 🔭 **Working On** | 🌱 **Learning** | 📚 **Exploring** |
 |:-----------------|:----------------|:-----------------|
@@ -56,7 +56,7 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="start">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/aungkyawth3t)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -66,7 +66,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="start">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=aungkyawth3t&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -74,26 +74,14 @@
 
 ## 💡 Featured Projects
 
-<div align="center">
+<div align="start">
   
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| **[Project 1](https://github.com/aungkyawth3t)** | Laravel E-commerce Platform | Laravel, MySQL, Tailwind |
-| **[Project 2](https://github.com/aungkyawth3t)** | React Task Manager | React, Node.js, MongoDB |
-| **[Project 3](https://github.com/aungkyawth3t)** | API Development Kit | PHP, Laravel, JWT |
+| **[BudgetBoard](https://github.com/aungkyawth3t/budget-board)** | Expense Tracking App | PHP, MySQL, Tailwind |
+| **[Student Registration](https://github.com/aungkyawth3t/student-registration-)** | Student Registration System | Laravel, MySQL, Bootstrap |
+| **[Blog](https://github.com/aungkyawth3t/blog)** | Blogging Website | Laravel, MySQL, Bootstrap |
+| **[FoodX](https://github.com/aungkyawth3t/FoodX)** | FoodFusion App | PHP, MySQL, HTML, CSS, Bootstrap |
 
 </div>
 
-## ⚡ Fun Facts
-
-<div align="center">
-  
-  ```javascript
-  const developer = {
-    name: "Aung Kyaw Thet",
-    role: "Full Stack Developer",
-    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-    quote: "Turning coffee into code since...",
-    currentlyLearning: "ReactJS & Modern Frontend",
-    funFact: "I can debug CSS in my sleep 😴"
-  };
