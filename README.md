@@ -1,43 +1,108 @@
 # Hi there 👋
 
-I'm **Aung Kyaw Thet**, a passionate developer who enjoys building web applications and learning new technologies!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aung+Kyaw+Thet;Full+Stack+Developer;Laravel+%7C+React+Enthusiast;Problem+Solver+%26+Design+Lover" alt="Typing SVG" />
+</div>
 
-## 🚀 Skills & Technologies
+## 🛠️ Tech Stack
 
-**Frontend:**
-- HTML, CSS, JavaScript
-- TailwindCSS
-- ReactJS (currently learning)
+<div align="center">
 
-**Backend:**
-- PHP
-- Laravel (most used & proficient)
+### 💻 **Languages & Frameworks**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Design Tools:**
-- Figma
-- Draw.io
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases:**
-- MySQL
-- PostgreSQL
+### 🎨 **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-## 📌 Currently
-- 🔭 Working on Laravel-based web applications
-- 🌱 Learning **ReactJS** to expand my frontend skills
-- 📚 Exploring modern web development practices
+</div>
 
-## 💡 Interests
-- Web application development
-- UI/UX design
-- Database optimization
-- Open source contributions
+## 📊 GitHub Stats
 
-## 📫 How to reach me
-- Email: aungkyawthethimself@gmail.com
-- Facebook: https://www.facebook.com/aungkyawthetx
-- Instagram: https://www.instagram.com/ann.chi21
-- Feel free to explore my repositories and contributions!
+<div align="center">
+  
+  <a href="https://github.com/aungkyawth3t">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aungkyawth3t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungkyawth3t&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+  </a>
+  
+  <br/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=aungkyawth3t&theme=radical&hide_border=true&background=0D1117&dates=FFFFFF&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1)
+  
+</div>
 
----
+## 🎯 Current Focus
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<div align="center">
+  
+| 🔭 **Working On** | 🌱 **Learning** | 📚 **Exploring** |
+|:-----------------|:----------------|:-----------------|
+| Laravel-based web applications | ReactJS & Modern Frontend | Advanced Database Design |
+| API Development | Next.js | Cloud Deployment |
+| Clean Architecture | TypeScript | DevOps Practices |
+
+</div>
+
+## 📈 Progress & Activity
+
+<div align="center">
+  
+```mermaid
+timeline
+    title Learning Journey
+    section 2024
+      Frontend Mastery : HTML/CSS/JS<br>TailwindCSS
+      Backend Development : PHP/Laravel
+      Current Focus : ReactJS
+    section Goals
+      Full Stack Proficiency : MERN/LAMP Stack
+      Cloud & DevOps : Docker, AWS
+      </div>
+📫 Connect With Me
+<div align="center">
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
+🏆 GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=aungkyawth3t&theme=radical&no-frame=true&row=2&column=4
+
+</div>
+💡 Featured Projects
+<div align="center">
+Project	Description	Stack
+Project 1	Laravel E-commerce Platform	Laravel, MySQL, Tailwind
+Project 2	React Task Manager	React, Node.js, MongoDB
+Project 3	API Development Kit	PHP, Laravel, JWT
+</div>
+⚡ Fun Facts
+<div align="center">
+javascript
+const developer = {
+  name: "Aung Kyaw Thet",
+  role: "Full Stack Developer",
+  passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+  quote: "Turning coffee into code since...",
+  currentlyLearning: "ReactJS & Modern Frontend",
+  funFact: "I can debug CSS in my sleep 😴"
+};
+</div>
+<div align="center">
+https://komarev.com/ghpvc/?username=aungkyawth3t&color=6366f1&style=flat-square
+
+<sub>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</sub>
+
+</div> ```
