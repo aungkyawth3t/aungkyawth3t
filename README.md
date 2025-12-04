@@ -41,5 +41,3 @@ I'm **Aung Kyaw Thet**, a passionate developer who enjoys building web applicati
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aungkyawth3t&show_icons=true&theme=radical)](https://github.com/aungkyawth3t)
