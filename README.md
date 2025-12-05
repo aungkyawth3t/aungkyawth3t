@@ -32,7 +32,7 @@
 | 🔭 **Working On** | 🌱 **Learning** | 📚 **Exploring** |
 |:-----------------|:----------------|:-----------------|
 | Laravel-based web applications | ReactJS | Advanced Database Design |
-| API Development | VueJS | Cloud Deployment |
+| API Authentication | VueJS | Cloud Deployment |
 | Personal Projects | TypeScript | DevOps Practices |
 
 </div>
